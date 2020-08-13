@@ -3,10 +3,7 @@ Sample Tkinter apps
 
 In this repo; I'll design some sample Tkinter app using python:
 
-a) Devising a calculator 
-b) Build an Image Viewer App
-
-[Note: The source for these projects is codemy.com
-
-Reference: https://www.youtube.com/watch?v=zg4c92pNFeo]
+a) Devising a calculator [Source : codemy.com]
+b) Devising a small temperature converter app [Source: realpython.com]
+b) Build an Image Viewer App [Source: codemy.com]
 
